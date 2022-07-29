@@ -1,0 +1,58 @@
+body {
+    height: auto;
+    width: auto;
+    padding: 0%;
+}
+
+#title {
+    display: flex;
+    font-family: sans-serif, 'Lucida Sans Unicode', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', Arial;
+    font-size: 28px;
+	color: rgb(74, 85, 85);
+    margin: 2%;
+}
+
+.btn-group {
+    display: flex;
+    height: auto;
+    margin: 1.5%;
+    margin-bottom: 0px;
+}
+
+.flex-container {
+    display: flex;
+  }
+
+.col-md-4, .col-md-5, .col-md-6 {
+    height: fit-content;
+    justify-content: space-around;
+    margin: 2%;
+    margin-bottom: 0px;
+}
+
+.col-12 {
+    display: flex;
+    margin: 2%;
+    margin-bottom: 0px;
+}
+
+#noticias {
+    display: flex;
+    color: rgb(74, 85, 85);
+    font-family: sans-serif, 'Lucida Sans Unicode', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', Arial;
+    font-size: 22px;
+    margin: 2%;
+    margin-top: 5%;
+}
+
+footer {
+    display: flex;
+    padding: 20px;
+    background-color: rgb(52, 52, 52);
+    color:#f2f2f2;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10%;
+    padding: 2%;
+    text-align: left;
+}
