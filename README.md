@@ -1,7 +1,6 @@
 # desafio-imap
 Desafio proposto pelo IMAP referente a vaga de Analista Front-End
 
-#Desafio
 O "Sistema Integrado de Gestão de Aquisições" é uma plataforma destinada a reunir informações sobre todas as
 etapas das licitações e das contratações diretas, facilitando a rotina dos agentes públicos e o acesso aos
 interessados em contratar com o Município, porque oferece também:
